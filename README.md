@@ -1,7 +1,8 @@
 ## Welcome, I'm Kevin!
  Computer Networking & Cybersecurity Practitioner in Development
  
-I’m building a strong foundation in IT support while working toward a long-term career in network engineering. My approach is hands-on: I develop labs, break things on purpose, fix them, and document the process so I can learn and improve. This repository organizes my work across Active Directory, Azure, Networking, and Security, highlighting the areas I’m actively developing as I prepare for real-world IT environments.
+Advancing practical IT expertise on the path to a future Security Operations Center (SOC) role and a long-term career as a Security Engineer. This repository demonstrates projects in Active Directory, defensive network architectures, and end-user device management, equipping me for high-stakes cybersecurity environments.
+
 
 ## Projects
 
