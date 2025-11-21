@@ -1,7 +1,7 @@
 ## Welcome, I'm Kevin!
  Computer Networking & Cybersecurity Practitioner in Development
  
-Advancing practical IT expertise on the path to a future Security Operations Center (SOC) role and a long-term career as a Security Engineer. This repository demonstrates projects in Active Directory, secure network topologies, and end-user device management, equipping me for high-stakes cyber defense operations
+Advancing practical IT expertise on the path to a future Security Operations Center (SOC) role and a long-term career as a Security Engineer. This repository demonstrates projects in Active Directory, secure network topologies, and end-user device management-- equipping me for high-stakes cyber defense operations
 
 
 ## Projects
