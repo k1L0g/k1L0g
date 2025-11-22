@@ -47,4 +47,4 @@ Here are my IT certifications, verified through Credly and Microsoft:
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-smythe/)
-[![Email](https://img.shields.io/badge/Email-Contact-grey?logo=gmail&logoColor=white)](mailto:ks.logged@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-000000?logo=gmail&logoColor=white)](mailto:ks.logged@gmail.com)
