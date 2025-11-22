@@ -15,13 +15,13 @@ This repository is organized into four main sections, each documenting a differe
 
 
 
-- **Networking Lab**  
+- **Endpoint Management Lab**  
   IP addressing, routing, DHCP, DNS, NAT, VLANs, and troubleshooting fundamentals.
   
   [lab folder](<projects/endpoint management/lab>)
 
   
-- **Azure Lab**  
+- **Firewall Configurations Lab**  
   Identity management, virtual machines, networking, and cloud resource administration.
 
   
