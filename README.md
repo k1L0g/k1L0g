@@ -14,18 +14,14 @@ This repository is organized into four main sections, each documenting a differe
   [lab folder](<projects/active directory/lab>)
 
 
-
 - **Networking Lab**  
   IP addressing, routing, DHCP, DNS, NAT, VLANs, and troubleshooting fundamentals.  
-  [View Project](./Networking/README.md)
+  [lab folder](<projects/active directory/lab>)
+
 
 - **Azure Lab**  
   Identity management, virtual machines, networking, and cloud resource administration.  
-  [View Project](./Azure/README.md)
-
-- **Security Lab**  
-  Hardening, auditing, update management, and vulnerability remediation.  
-  [View Project](./Security/README.md)
+  [lab folder](<projects/active directory/lab>)
 
 ## Certifications
 
