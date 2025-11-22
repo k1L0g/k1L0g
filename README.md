@@ -10,7 +10,7 @@ This repository is organized into four main sections, each documenting a differe
 
 - **Active Directory Lab**  
   Setup of a Windows Server 2022 domain, users, Group Policy, permissions, and remote access.  
-  [View Project](./ActiveDirectoryLab/README.md)
+  [View Project]https://github.com/k1L0g/k1L0g/blob/c24409a56bc466364275e776c3edc264a5836591/Active%20Directory%20Lab/README.md
 
 - **Networking Lab**  
   IP addressing, routing, DHCP, DNS, NAT, VLANs, and troubleshooting fundamentals.  
