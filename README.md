@@ -8,20 +8,20 @@ I'm Advancing practical IT skills on the path to a future Security Operations Ce
 
 This repository is organized into four main sections, each documenting a different part of my hands-on IT and networking experience.
 
-- **Active Directory **  
+- **Active Directory**  
   Setup of a Windows Server 2022 domain, users, Group Policy, permissions, and remote access.  
   
   [lab folder](<projects/active directory/lab>)
 
 
 
-- **Endpoint Management **  
+- **Endpoint Management**  
   IP addressing, routing, DHCP, DNS, NAT, VLANs, and troubleshooting fundamentals.
   
   [lab folder](<projects/endpoint management/lab>)
 
   
-- **Firewall Configurations **  
+- **Firewall Configurations**  
   Identity management, virtual machines, networking, and cloud resource administration.
 
   
