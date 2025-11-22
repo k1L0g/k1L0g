@@ -15,13 +15,15 @@ This repository is organized into four main sections, each documenting a differe
 
 
 - **Networking Lab**  
-  IP addressing, routing, DHCP, DNS, NAT, VLANs, and troubleshooting fundamentals.  
+  IP addressing, routing, DHCP, DNS, NAT, VLANs, and troubleshooting fundamentals.
+  
   [lab folder](<projects/active directory/lab>)
   
 
 
 - **Azure Lab**  
-  Identity management, virtual machines, networking, and cloud resource administration.  
+  Identity management, virtual machines, networking, and cloud resource administration.
+  
   [lab folder](<projects/active directory/lab>)
 
 ## Certifications
