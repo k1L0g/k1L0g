@@ -19,9 +19,6 @@ This repository is organized into four main sections, each documenting a differe
   
   [lab folder](<projects/active directory/lab>)
   
-  
-
-
 - **Azure Lab**  
   Identity management, virtual machines, networking, and cloud resource administration.
   
