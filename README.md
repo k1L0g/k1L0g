@@ -8,7 +8,7 @@ I'm Advancing practical IT skills on the path to a future Security Operations Ce
 
 
 ### Overview
-Hands-on labs demonstrating practical skills in **Active Directory, network security, and end-user device management**, with a focus on **security best practices**.  
+Hands-on labs demonstrating practical skills in Active Directory, network security, and end-user device management**, with a focus on **security best practices  
 
 These labs showcase my ability to:
 
@@ -21,19 +21,19 @@ These labs showcase my ability to:
 ### Labs & Focus Areas
 
 #### Active Directory (AD)
-- **Lab01: AD Users & Groups** – Manage users/groups securely with least privilege  
-- **Lab02: Group Policy Security** – Enforce password policies, account lockout, and auditing  
-- **Lab03: AD Security Hardening** – Harden AD, audit accounts, monitor activity  
+- **Lab01: Users & Groups** – Create users/groups, test permissions, remediate misconfigurations
+- **Lab02: Group Policy Security** – Apply policies, test conflicts, secure endpoints
+- **Lab03: AD Hardening** – Audit accounts, simulate attacks, harden policies 
 
 #### Network Security
-- **Lab01: Firewall Configuration** – Block unauthorized traffic and monitor logs  
-- **Lab02: Secure Network Topology** – VLANs, segmentation, and access controls  
-- **Lab03: VPN Implementation** – Encrypted VPN access with secure authentication  
+- **Lab01: Firewall** – Configure rules, test access, remediate
+- **Lab02: Network Topology** – Segment networks, test traffic, enforce ACLs
+- **Lab03: VPN** – Setup VPN, test weak authentication, secure configuration 
 
 #### End-User Device Management
-- **Lab01: Secure Software Deployment** – Deploy verified software securely  
-- **Lab02: Endpoint Group Policy** – Enforce security policies on endpoints  
-- **Lab03: Remote Device Monitoring** – Detect suspicious activity and enforce compliance  
+- **Lab01: Software Deployment** – Deploy software, simulate errors, remediate
+- **Lab02: Endpoint GPO** – Enforce policies, test bypass, strengthen security
+- **Lab03: Remote Monitoring** – Detect suspicious activity, respond and document
 
 ---
 
@@ -45,7 +45,7 @@ Each lab includes:
 - **screenshots/** – Visual documentation of key steps  
 - **notes.md** – Observations, lessons learned, troubleshooting  
 
-> Screenshots and notes highlight **hands-on experience and professional documentation skills**.
+> Screenshots and notes highlight hands-on experience and professional documentation skills
 
 ---
 
