@@ -5,40 +5,63 @@ I'm Advancing practical IT skills on the path to a future Security Operations Ce
 
 ## Projects
 
-This repository is organized into three main sections, each documenting a different part of my hands-on IT and networking experience.
+# IT Security & Systems Lab Portfolio
 
-- **Active Directory Lab**  
-  Setup of a Windows Server 2022 domain, users, Group Policy, permissions, and remote access.  
-  [View Project](./ActiveDirectoryLab/README.md)
+## Overview
+Hands-on labs demonstrating practical skills in **Active Directory, network security, and end-user device management**, with a focus on **security best practices**.  
 
-- **Networking Lab**  
-  IP addressing, routing, DHCP, DNS, NAT, VLANs, and troubleshooting fundamentals.  
-  [View Project](./Networking/README.md)
+These labs showcase my ability to:
 
-- **Azure Lab**  
-  Identity management, virtual machines, networking, and cloud resource administration.  
-  [View Project](./Azure/README.md)
+- Configure and secure IT systems  
+- Apply security policies and auditing  
+- Document technical processes and lessons learned  
 
-- **Security Lab**  
-  Hardening, auditing, update management, and vulnerability remediation.  
-  [View Project](./Security/README.md)
+---
+
+## Labs & Focus Areas
+
+### Active Directory (AD)
+- **Lab01: AD Users & Groups** – Manage users/groups securely with least privilege  
+- **Lab02: Group Policy Security** – Enforce password policies, account lockout, and auditing  
+- **Lab03: AD Security Hardening** – Harden AD, audit accounts, monitor activity  
+
+### Network Security
+- **Lab01: Firewall Configuration** – Block unauthorized traffic and monitor logs  
+- **Lab02: Secure Network Topology** – VLANs, segmentation, and access controls  
+- **Lab03: VPN Implementation** – Encrypted VPN access with secure authentication  
+
+### End-User Device Management
+- **Lab01: Secure Software Deployment** – Deploy verified software securely  
+- **Lab02: Endpoint Group Policy** – Enforce security policies on endpoints  
+- **Lab03: Remote Device Monitoring** – Detect suspicious activity and enforce compliance  
+
+---
+
+## Lab Contents
+
+Each lab includes:
+
+- **README.md** – Step-by-step instructions with security objectives  
+- **screenshots/** – Visual documentation of key steps  
+- **notes.md** – Observations, lessons learned, troubleshooting  
+
+> Screenshots and notes highlight **hands-on experience and professional documentation skills**.
+
+---
+
+ [View Project](./Security/README.md)
 
 ## Certifications
 
-Here are my IT certifications, verified through Credly and Microsoft:
+- Currently studying for: CompTIA Security+
 
-- [CompTIA Security+](https://www.credly.com/badges/d89c7144-279d-4689-b175-23dd8e4b53d8/public_url)
-- [Microsoft Azure Fundamentals (AZ-900)](https://learn.microsoft.com/api/credentials/share/en-us/MelvinWilliams-2022/9BF8F9D963B6FCA9?sharingId=49A91F7AAEFFECF3)
-- Currently studying for: Cisco Certified Network Associate (CCNA)
+## Skills Highlighted
 
-## Skills
-
-- Windows Server 2022, Active Directory, Group Policy
-- Windows 11, Linux (Ubuntu)
-- Networking: IPv4, Subnetting, DHCP, DNS, VLANs
-- Cloud: Microsoft Azure Fundamentals
-- IT Support: User account management, patching, remote access
-- Security basics: Vulnerability remediation, account lockout policies
+- Active Directory administration & security  
+- Network security: firewalls, VPNs, segmentation  
+- Endpoint management: policies, software deployment, monitoring  
+- Security best practices: least privilege, auditing, encryption  
+- Professional technical documentation
 
 ## Contact
 
