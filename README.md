@@ -1,11 +1,11 @@
-## Welcome, I'm Kevin
+## Welcome, I'm Kevin!
 Computer Networking & Cybersecurity Practitioner in Development
 
 I'm Advancing practical IT skills on the path to a future Security Operations Center (SOC) role, and a long-term career as a Security Engineer. I design and break systems in controlled labs, and document the process to deepen expertise. This repository demonstrates projects in Active Directory, secure network topologies, and end user device management —practical experience that maps directly to SOC workflows and threat detection for high-stakes cyber defense operations
 
 ## Projects
 
-This repository is organized into four main sections, each documenting a different part of my hands-on IT and networking experience.
+This repository is organized into three main sections, each documenting a different part of my hands-on IT and networking experience.
 
 - **Active Directory Lab**  
   Setup of a Windows Server 2022 domain, users, Group Policy, permissions, and remote access.  
@@ -42,5 +42,5 @@ Here are my IT certifications, verified through Credly and Microsoft:
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melvin-williams-555b6625)
-[![Email](https://img.shields.io/badge/Email-Contact-green?logo=gmail&logoColor=white)](mailto:Mwilliams719@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-white?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melvin-williams-555b6625)
+[![Email](https://img.shields.io/badge/Email-Contact-white?logo=gmail&logoColor=white)](mailto:ks.logged@gmail.com)
