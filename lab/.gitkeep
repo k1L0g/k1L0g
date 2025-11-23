@@ -1,0 +1,20 @@
+/Active-Directory/
+    Lab1-Privilege-Escalation/
+        screenshots/
+        notes.md
+    Lab2-GPO-Security/
+        screenshots/
+        notes.md
+    Lab3-AD-Recon/
+        screenshots/
+        notes.md
+
+/Network-Security/
+    Lab1-Firewall-Misconfig/
+    Lab2-VLAN-Segmentation/
+    Lab3-DMZ-Security/
+
+/Endpoint-Security/
+    Lab1-Local-Policy/
+    Lab2-AppLocker/
+    Lab3-Sysmon-Monitoring/
