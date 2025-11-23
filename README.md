@@ -8,7 +8,7 @@ I'm Advancing practical IT skills on the path to a future Security Operations Ce
 
 
 ### Overview
-Hands-on labs demonstrating practical skills in Active Directory, network security, and end-user device management**, with a focus on security best practices  
+Hands-on labs demonstrating practical skills in Active Directory, network security, and end-user device management, with a focus on security best practices  
 
 These labs showcase my ability to:
 
