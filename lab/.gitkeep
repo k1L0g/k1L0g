@@ -1,17 +1,17 @@
 /IT-Security-Labs
 │── README.md                     # Overview of all labs
 │
-├── /ActiveDirectory
-│   ├── Lab01-UsersGroups
-│   ├── Lab02-GroupPolicySecurity
-│   └── Lab03-ADHardening
+├── /Active Directory
+│   ├── Lab01-Users & Groups
+│   ├── Lab02-Group Policy Security
+│   └── Lab03-AD Hardening & Attack Simulation
 │
-├── /NetworkSecurity
-│   ├── Lab01-Firewall
-│   ├── Lab02-NetworkTopology
-│   └── Lab03-VPN
+├── /Network Security
+│   ├── Lab01-Firewall Configuration
+│   ├── Lab02-Network Topology / Segmentation
+│   └── Lab03-VPN Setup & Security Testing
 │
-└── /EndUserDeviceManagement
-    ├── Lab01-SoftwareDeployment
-    ├── Lab02-EndpointGPO
-    └── Lab03-RemoteMonitoring
+└── /End-User Device Management
+    ├── Lab01-Secure Software Deployment
+    ├── Lab02-Endpoint GPO Enforcement
+    └── Lab03-Remote Device Monitoring
