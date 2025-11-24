@@ -33,7 +33,7 @@ These labs illustrate my ability to:
 - **Lab02: Network Topology** – Segment networks, test traffic, enforce ACLs
 - **Lab03: VPN** – Setup VPN, test weak authentication, secure configuration 
 
-#### [End-User Device Management](IT-Security-Lab/EndUserDeviceManagement/)
+#### [End-User Device Management Lab](IT-Security-Lab/EndUserDeviceManagement/)
 
 - **Lab01: Software Deployment** – Deploy software, simulate errors, remediate
 - **Lab02: Endpoint GPO** – Enforce policies, test bypass, strengthen security
