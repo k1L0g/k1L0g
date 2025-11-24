@@ -11,7 +11,7 @@ I'm Advancing practical IT skills on the path to a future Security Operations Ce
 #### Overview
 Applied practical skills in Active Directory, network security, and endpoint management through labs designed to reinforce security best practices  
 
-These labs showcase my ability to:
+These labs illustrate my ability to:
 
 - Configure and secure IT systems  
 - Apply security policies and auditing  
