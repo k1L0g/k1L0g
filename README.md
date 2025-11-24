@@ -21,7 +21,8 @@ These labs showcase my ability to:
 
 ### Labs & Focus Areas
 
-[#### Active Directory (AD)](./ActiveDirectory/.keep)
+#### [Active Directory Lab](IT-Security-Lab/ActiveDirectory/)
+
 - **Lab01: Users & Groups** – Create users/groups, test permissions, remediate misconfigurations
 - **Lab02: Group Policy Security** – Apply policies, test conflicts, secure endpoints
 - **Lab03: AD Hardening** – Audit accounts, simulate attacks, harden policies 
