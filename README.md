@@ -1,6 +1,7 @@
 <img width="1460" height="458" alt="Make your README-3" src="https://github.com/user-attachments/assets/d2108e20-31c8-42f2-a9b9-27852ac41630" />
 
-Computer Networking & Cybersecurity Practitioner in Development
+
+
 
 I'm Advancing practical IT skills on the path to a future Security Operations Center (SOC) role, and a long-term career as a Security Engineer. I design and break systems in controlled labs, and document the process to deepen expertise. This repository demonstrates projects in Active Directory, secure network topologies, and end user device management —practical experience that maps directly to SOC workflows and threat detection for high-stakes cyber defense operations
 
