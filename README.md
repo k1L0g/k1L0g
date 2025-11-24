@@ -27,12 +27,14 @@ These labs showcase my ability to:
 - **Lab02: Group Policy Security** – Apply policies, test conflicts, secure endpoints
 - **Lab03: AD Hardening** – Audit accounts, simulate attacks, harden policies 
 
-#### Network Security
+#### [Network Security Lab](IT-Security-Lab/NetworkSecurity/)
+
 - **Lab01: Firewall** – Configure rules, test access, remediate
 - **Lab02: Network Topology** – Segment networks, test traffic, enforce ACLs
 - **Lab03: VPN** – Setup VPN, test weak authentication, secure configuration 
 
-#### End-User Device Management
+#### [End-User Device Management](IT-Security-Lab/EndUserDeviceManagement/)
+
 - **Lab01: Software Deployment** – Deploy software, simulate errors, remediate
 - **Lab02: Endpoint GPO** – Enforce policies, test bypass, strengthen security
 - **Lab03: Remote Monitoring** – Detect suspicious activity, respond and document
