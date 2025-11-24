@@ -53,7 +53,6 @@ Each lab includes:
 
 ---
 
- [View Project](./Security/README.md)
 
 ### Certifications
 
