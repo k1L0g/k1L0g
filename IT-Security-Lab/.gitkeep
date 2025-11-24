@@ -1,1 +1,17 @@
-
+/IT-Security-Labs
+│── README.md                     # Overview of all labs
+│
+├── /ActiveDirectory
+│   ├── Lab01-UsersGroups
+│   ├── Lab02-GroupPolicySecurity
+│   └── Lab03-ADHardening
+│
+├── /NetworkSecurity
+│   ├── Lab01-Firewall
+│   ├── Lab02-NetworkTopology
+│   └── Lab03-VPN
+│
+└── /EndUserDeviceManagement
+    ├── Lab01-SoftwareDeployment
+    ├── Lab02-EndpointGPO
+    └── Lab03-RemoteMonitoring
