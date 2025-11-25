@@ -66,13 +66,14 @@ Each lab includes:
 - Professional technical documentation
 
 ---
+### Resume
+
+[IT-Resume](assets/IT-resume.pdf)
+
+---
 
 ### Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-white?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-smythe/)
 [![Email](https://img.shields.io/badge/Email-Contact-white?logo=gmail&logoColor=white)](mailto:ks.logged@gmail.com)
 
----
-### Resume
-
-[IT-Resume](assets/IT-resume.pdf)
