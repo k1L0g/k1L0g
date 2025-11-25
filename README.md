@@ -69,7 +69,7 @@ Each lab includes:
 
 ### Resume
 
-[IT-Resume]
+[IT-Resume](assets/IT-resume.pdf)
 
 ---
 
