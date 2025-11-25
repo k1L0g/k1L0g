@@ -68,7 +68,7 @@ Each lab includes:
 ---
 ### Resume
 
-[IT-Resume](assets/IT-resume.pdf)
+[kevin-smythe.pdf](assets/kevin-smythe.pdf)
 
 ---
 
