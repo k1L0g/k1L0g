@@ -56,7 +56,7 @@ Each lab includes:
 ### Certifications
 
 - Currently studying for: CompTIA Security+
-
+---
 ### Skills Highlighted
 
 - Active Directory administration & security  
@@ -64,6 +64,14 @@ Each lab includes:
 - Endpoint management: policies, software deployment, monitoring  
 - Security best practices: least privilege, auditing, encryption  
 - Professional technical documentation
+
+---
+
+### Resume
+
+[IT-Resume](/assets/IT-Resume.pdf)
+
+---
 
 ### Contact
 
