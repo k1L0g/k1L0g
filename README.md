@@ -6,7 +6,7 @@ I'm Advancing practical IT skills on the path to a future Security Operations Ce
 
 
 
-> Note: This is an ongoing project and will continue to expand with steps, screenshots, and documentation
+
 
 
 #### Overview
@@ -18,6 +18,8 @@ These labs illustrate my ability to:
 - Apply security policies and auditing  
 - Document technical processes and lessons learned  
 
+> Note: This is an ongoing project and will continue to expand with steps, screenshots, and documentation
+> 
 ---
 
 ### Labs & Focus Areas
