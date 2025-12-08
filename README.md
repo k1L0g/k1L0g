@@ -20,7 +20,7 @@ These labs illustrate my ability to:
 
 > Note: This is an ongoing project and will continue to expand with steps, screenshots, and documentation
 > 
----
+
 
 ### Labs & Focus Areas
 
