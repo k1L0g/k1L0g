@@ -4,7 +4,7 @@ I'm Advancing practical IT skills on the path to a future Security Operations Ce
 
 ### IT Security & Systems Lab Portfolio
 
----
+
 
 > Note: This is an ongoing project and will continue to expand with steps, screenshots, and documentation
 
