@@ -72,7 +72,7 @@ Each lab includes:
 ---
 ### Resume
 
-[IS-resume.pdf](assets/IS-resume.pdf)
+[IS-resume.pdf](assets/IS_resume_ks.pdf)
 
 ---
 
