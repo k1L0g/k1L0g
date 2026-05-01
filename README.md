@@ -1,5 +1,4 @@
-<img width="690" height="2020" alt="image" src="https://github.com/user-attachments/assets/e41397a3-68c0-4283-b730-9ac5bbd754e6" />
-
+<img width="690" height="202" alt="image" src="https://github.com/user-attachments/assets/e41397a3-68c0-4283-b730-9ac5bbd754e6"/>
 I'm Advancing practical IT skills on the path to a future Security Operations Center (SOC) role, and a long-term career as a Security Engineer. I design and break systems in controlled labs, and document the process to deepen expertise. This repository demonstrates projects in Active Directory, secure network topologies, and end user device management —practical experience that maps directly to SOC workflows and threat detection for high-stakes cyber defense operations
 
 ## IT Security & Systems Lab Portfolio
